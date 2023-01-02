@@ -10,3 +10,4 @@ scipy
 Werkzeug
 matplotlib
 seaborn
+pickle-mixin
